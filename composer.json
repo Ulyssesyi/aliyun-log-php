@@ -1,0 +1,11 @@
+{
+    "name": "zdz/aliyun-log-php",
+    "description": "PPPPPsdk",
+    "authors": [
+        {
+            "name": "zhudongzhuo",
+            "email": "zdzserver@163.com"
+        }
+    ],
+    "require": {}
+}
