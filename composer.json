@@ -1,11 +1,14 @@
 {
     "name": "zdz/aliyun-log-php",
-    "description": "PPPPPsdk",
+    "description": "阿里云日志sdk",
     "authors": [
         {
             "name": "zhudongzhuo",
             "email": "zdzserver@163.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "files": ["Log_Autoload.php"]
+    }
 }
