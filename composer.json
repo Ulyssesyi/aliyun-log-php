@@ -1,10 +1,10 @@
 {
-    "name": "zdz/aliyun-log-php",
+    "name": "ulyssesyi/aliyun-log-php",
     "description": "阿里云日志sdk",
     "authors": [
         {
-            "name": "zhudongzhuo",
-            "email": "zdzserver@163.com"
+            "name": "ulyssesyi",
+            "email": "uyijin@gmail.com"
         }
     ],
     "require": {},
