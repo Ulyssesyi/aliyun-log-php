@@ -4,4 +4,4 @@
 
 ### 安装
 
-`composer require zdz/aliyun-log-php`
+`composer require ulyssesyi/aliyun-log-php`
